@@ -1,0 +1,12 @@
+-shield means you can just not engage. make sheild lose energy, requires souls
+
+-slow down projectiles and speed up player to allow for more dodging
+
+-make floating collectables; platforms fall right away, souls float
+	- red souls for health
+	- blue souls for shield
+	- power up to increase damage for limited time
+	- power up to increase speed
+	- power up to increase 
+
+check out binding of issac

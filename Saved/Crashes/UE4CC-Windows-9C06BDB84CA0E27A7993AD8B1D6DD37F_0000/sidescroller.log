@@ -1,0 +1,1452 @@
+﻿Log file open, 02/22/19 19:36:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: sidescroller
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291854
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.110s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=stevensonmat2 -epicuserid=e2e5d5c57823431080f087f65489a702 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.02.23-03.36.46:930][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.23-03.36.46:931][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.23-03.36.46:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:932][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.23-03.36.46:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.23-03.36.46:935][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:936][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.23-03.36.46:936][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.23-03.36.46:936][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.23-03.36.46:936][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.23-03.36.46:950][  0]LogHAL: Display: Platform has ~ 16 GB [16964759552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.23-03.36.46:950][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.23-03.36.46:950][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.23-03.36.46:950][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:950][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.23-03.36.46:951][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.23-03.36.46:952][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.23-03.36.46:952][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Config/Windows/Engine.ini]
+[2019.02.23-03.36.46:952][  0]LogInit: Computer: LAPTOP-EASSN1N8
+[2019.02.23-03.36.46:952][  0]LogInit: User: MatthewStevenson
+[2019.02.23-03.36.46:952][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.23-03.36.46:952][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2019.02.23-03.36.46:953][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.02.23-03.36.46:953][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.23-03.36.46:953][  0]LogMemory: Process Physical Memory: 103.96 MB used, 103.96 MB peak
+[2019.02.23-03.36.46:953][  0]LogMemory: Process Virtual Memory: 89.80 MB used, 89.80 MB peak
+[2019.02.23-03.36.46:953][  0]LogMemory: Physical Memory: 7166.36 MB used,  9012.50 MB free, 16178.86 MB total
+[2019.02.23-03.36.46:953][  0]LogMemory: Virtual Memory: 4651.18 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.23-03.36.46:971][  0]LogInit: Using OS detected language (en-US).
+[2019.02.23-03.36.46:971][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.23-03.36.46:972][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.23-03.36.47:488][  0]LogStreaming: Display: Took  0.517s to InitEngineTextLocalization.
+[2019.02.23-03.36.47:488][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.23-03.36.47:535][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.23-03.36.47:535][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.23-03.36.47:804][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.23-03.36.47:804][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.23-03.36.47:844][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2019.02.23-03.36.47:844][  0]LogD3D11RHI:       4064/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.23-03.36.47:855][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.23-03.36.47:855][  0]LogD3D11RHI:       128/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.23-03.36.47:857][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.23-03.36.47:857][  0]LogD3D11RHI:       0/0/8089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.23-03.36.47:857][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.23-03.36.47:899][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.23-03.36.47:899][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2019.02.23-03.36.47:899][  0]LogWindows: EnumDisplayDevices:
+[2019.02.23-03.36.47:899][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.23-03.36.47:899][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.23-03.36.47:900][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.23-03.36.47:900][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.23-03.36.47:900][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2019.02.23-03.36.47:900][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.23-03.36.47:900][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.23-03.36.47:900][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2019.02.23-03.36.47:921][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.23-03.36.47:935][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.23-03.36.48:320][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.23-03.36.48:338][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.23-03.36.48:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.23-03.36.48:365][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.23-03.36.48:382][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.23-03.36.48:396][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.23-03.36.48:411][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.23-03.36.48:426][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.23-03.36.48:434][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:526][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-03.36.48:527][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.23-03.36.48:590][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.23-03.36.48:590][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.23-03.36.48:615][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.23-03.36.48:615][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.23-03.36.48:628][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.23-03.36.48:643][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.23-03.36.48:656][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.23-03.36.48:670][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.23-03.36.48:724][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.23-03.36.48:724][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.23-03.36.48:724][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.23-03.36.48:796][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Users/MatthewStevenson/Desktop/ascendant/Intermediate/Shaders/WorkingDirectory/17228/).
+[2019.02.23-03.36.48:797][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MatthewStevenson/AppData/Local/Temp/UnrealShaderWorkingDir/F855DD0E409CCA730807FCB2BB8E6485/'.
+[2019.02.23-03.36.48:799][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.23-03.36.48:799][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.23-03.36.48:799][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.23-03.36.49:389][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/MatthewStevenson/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MatthewStevenson/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MatthewStevenson/Desktop/ascendant/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MatthewStevenson/Desktop/ascendant/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.23-03.36.49:450][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.23-03.36.49:466][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.23-03.36.49:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.23-03.36.49:466][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.23-03.36.49:479][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MatthewStevenson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.23-03.36.49:479][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.23-03.36.49:479][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.23-03.36.49:507][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.23-03.36.49:510][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.23-03.36.49:510][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.23-03.36.49:610][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2019.02.23-03.36.50:042][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.23-03.36.50:233][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.23-03.36.50:238][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.23-03.36.50:238][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.23-03.36.50:238][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.23-03.36.50:239][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.23-03.36.50:256][  0]LogNetVersion: sidescroller 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3708659865)
+[2019.02.23-03.36.50:934][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.131429 seconds
+[2019.02.23-03.36.50:941][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.23-03.36.50:941][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.23-03.36.50:941][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.23-03.36.52:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.23-03.36.52:042][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.23-03.36.52:822][  0]SourceControl: Source control is disabled
+[2019.02.23-03.36.52:822][  0]SourceControl: Source control is disabled
+[2019.02.23-03.36.52:825][  0]SourceControl: Source control is disabled
+[2019.02.23-03.36.52:826][  0]SourceControl: Source control is disabled
+[2019.02.23-03.36.53:008][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.23-03.36.53:071][  0]LogOcInput: OculusInput pre-init called
+[2019.02.23-03.36.53:218][  0]LogEngine: Initializing Engine...
+[2019.02.23-03.36.53:219][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.23-03.36.53:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.23-03.36.53:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.23-03.36.53:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.23-03.36.53:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.23-03.36.53:497][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.23-03.36.53:514][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.23-03.36.53:535][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.36.53:573][  0]LogInit: FAudioDevice initialized.
+[2019.02.23-03.36.53:573][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.23-03.36.53:724][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/MatthewStevenson/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.23-03.36.53:739][  0]LogInit: Texture streaming: Enabled
+[2019.02.23-03.36.53:757][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.23-03.36.53:775][  0]LogInit: Transaction tracking system initialized
+[2019.02.23-03.36.53:805][  0]BlueprintLog: New page: Editor Load
+[2019.02.23-03.36.53:898][  0]LocalizationService: Localization service is disabled
+[2019.02.23-03.36.54:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MatthewStevenson/Desktop/ascendant/Content/' took 0.02s
+[2019.02.23-03.36.54:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.23-03.36.54:482][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.23-03.36.54:482][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.23-03.36.54:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.23-03.36.54:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.23-03.36.54:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.23-03.36.54:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.23-03.36.54:669][  0]SourceControl: Source control is disabled
+[2019.02.23-03.36.54:669][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.23-03.36.54:670][  0]LightingResults: New page: Lighting Build
+[2019.02.23-03.36.54:674][  0]MapCheck: New page: Map Check
+[2019.02.23-03.36.54:674][  0]LightingResults: New page: Lighting Build
+[2019.02.23-03.36.56:221][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.02.23-03.36.56:230][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.23-03.36.56:263][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.23-03.36.56:264][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2019.02.23-03.36.56:264][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.595
+[2019.02.23-03.36.57:728][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.23-03.36.57:799][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.sidescroller
+[2019.02.23-03.36.57:799][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.23-03.36.57:799][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.02.23-03.36.57:799][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.23-03.36.57:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.36.57:809][  0]LogTemp: BranchPath = LAPTOP-EASSN1N8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = LAPTOP-EASSN1N8/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.23-03.36.57:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.36.57:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.36.57:828][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\MatthewStevenson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.23-03.36.57:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.36.57:838][  0]LogCollectionManager: Loaded 0 collections in 0.002469 seconds
+[2019.02.23-03.36.57:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MatthewStevenson/Desktop/ascendant/Saved/Collections/' took 0.01s
+[2019.02.23-03.36.57:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MatthewStevenson/Desktop/ascendant/Content/Developers/MatthewStevenson/Collections/' took 0.00s
+[2019.02.23-03.36.57:854][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MatthewStevenson/Desktop/ascendant/Content/Collections/' took 0.00s
+[2019.02.23-03.36.57:854][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.23-03.36.57:864][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2651 classes and 620 folders.
+[2019.02.23-03.36.57:872][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.23-03.36.57:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-03.36.57:934][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.02.23-03.36.57:939][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.23-03.36.58:016][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.23-03.36.58:021][  0]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.23-03.36.58:032][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.23-03.36.58:163][  0]LogRenderer: Reallocating scene render targets to support 1008x432 Format 10 NumSamples 1 (Frame:1).
+[2019.02.23-03.36.58:323][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.23-03.36.58:323][  0]LogLoad: (Engine Initialization) Total time: 13.56 seconds
+[2019.02.23-03.36.58:323][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.23-03.36.58:344][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.23-03.36.58:404][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.23-03.36.58:814][  6]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.23-03.36.58:841][  7]LogAssetRegistry: Asset discovery search completed in 9.2548 seconds
+[2019.02.23-03.36.58:843][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.23-03.36.58:843][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.02.23-03.36.59:546][ 37]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.23-03.37.00:220][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.23-03.37.01:415][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.23-03.37.03:218][254]Cmd: MAP LOAD FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.23-03.37.03:245][254]LightingResults: New page: Lighting Build
+[2019.02.23-03.37.03:246][254]LoadErrors: New page: Loading map: ascendant.umap
+[2019.02.23-03.37.03:248][254]MapCheck: New page: Map Check
+[2019.02.23-03.37.03:248][254]LightingResults: New page: Lighting Build
+[2019.02.23-03.37.03:315][254]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.37.03:419][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.23-03.37.03:497][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.23-03.37.03:497][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.02.23-03.37.03:497][254]LogFileHelpers: Loading map 'ascendant' took 0.281
+[2019.02.23-03.37.03:498][254]LogSlate: Window 'Open Level' being destroyed
+[2019.02.23-03.37.16:956][ 60]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.02.23-03.37.22:727][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.37.39:496][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ascendant" FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.23-03.37.39:724][336]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/ascendant1BE0A6984545F77D0EED01B217C51828.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant.umap'
+[2019.02.23-03.37.39:773][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ascendant_BuiltData" FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant_BuiltData.uasset" SILENT=true
+[2019.02.23-03.37.39:865][336]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/ascendant_BuiltData3DF3805741626AADEE340389BFBE0901.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant_BuiltData.uasset'
+[2019.02.23-03.37.40:743][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.37.40:825][393]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.37.40:848][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.37.40:848][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.37.40:848][393]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:37:40 AM)
+[2019.02.23-03.37.40:861][393]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.37.40:864][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002603s)
+[2019.02.23-03.37.40:864][393]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.37.40:864][393]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.02.23-03.37.40:864][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003478s)
+[2019.02.23-03.37.40:920][393]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.37.40:928][393]LogInit: FAudioDevice initialized.
+[2019.02.23-03.37.40:969][393]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.37.40:972][393]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.37.40
+[2019.02.23-03.37.40:972][393]LogWorld: Bringing up level for play took: 0.001265
+[2019.02.23-03.37.40:992][393]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.23-03.37.40:995][393]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant -0.411
+[2019.02.23-03.37.40:995][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.37.41:313][412]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] true
+[2019.02.23-03.37.41:313][412]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] oalso
+[2019.02.23-03.37.52:248][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.38.00:690][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.38.00:690][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.38.00:729][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.38.00:729][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.38.00:759][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.38.00:789][568]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.02.23-03.38.32:227][453]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/HUD/MainUI.MainUI
+[2019.02.23-03.38.32:731][453]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.23-03.38.33:570][453]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.23-03.38.53:706][647]BlueprintLog: New page: Compile MainUI
+[2019.02.23-03.38.54:598][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/HUD/MainUI" FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/HUD/MainUI.uasset" SILENT=true
+[2019.02.23-03.38.54:715][692]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/MainUI5B7F55514F3DF52261D0F1B595FCA91D.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/HUD/MainUI.uasset'
+[2019.02.23-03.39.00:098][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.39.00:124][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.39.00:124][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.39.00:124][ 14]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:39:00 AM)
+[2019.02.23-03.39.00:124][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.39.00:127][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002675s)
+[2019.02.23-03.39.00:127][ 14]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.39.00:127][ 14]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.02.23-03.39.00:127][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003285s)
+[2019.02.23-03.39.00:168][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.39.00:175][ 14]LogInit: FAudioDevice initialized.
+[2019.02.23-03.39.00:208][ 14]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.39.00:210][ 14]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.39.00
+[2019.02.23-03.39.00:210][ 14]LogWorld: Bringing up level for play took: 0.000770
+[2019.02.23-03.39.00:224][ 14]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 0.818
+[2019.02.23-03.39.00:224][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.39.00:587][ 36]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] true
+[2019.02.23-03.39.00:587][ 36]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] oalso
+[2019.02.23-03.39.14:787][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.39.17:205][ 33]Cmd: SELECT NONE
+[2019.02.23-03.39.17:588][ 56]Cmd: SELECT NONE
+[2019.02.23-03.39.18:308][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.39.18:308][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.39.18:345][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.39.18:345][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.39.18:379][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.39.18:411][101]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.23-03.39.21:212][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.39.38:435][300]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.02.23-03.39.39:323][301]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.23-03.41.04:066][284]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.02.23-03.41.05:558][314]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/2DSideScrollerCharacter9D4094D34A0311DE611731949D9A28EF.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.02.23-03.41.08:674][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ascendant" FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.23-03.41.08:945][497]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/ascendant33F4D2E54F72DA6CA6F2D69FE5E7F9FD.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant.umap'
+[2019.02.23-03.41.08:994][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ascendant_BuiltData" FILE="../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant_BuiltData.uasset" SILENT=true
+[2019.02.23-03.41.09:072][497]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/ascendant_BuiltData1242D46C45FF1BA2D7B8E7AF7CFC7C27.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/ascendant_BuiltData.uasset'
+[2019.02.23-03.41.09:632][529]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.41.09:684][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.41.09:684][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.41.09:685][529]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:41:09 AM)
+[2019.02.23-03.41.09:685][529]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.41.09:687][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002741s)
+[2019.02.23-03.41.09:688][529]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.41.09:688][529]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.02.23-03.41.09:688][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003470s)
+[2019.02.23-03.41.09:729][529]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.41.09:738][529]LogInit: FAudioDevice initialized.
+[2019.02.23-03.41.09:773][529]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.41.09:774][529]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.41.09
+[2019.02.23-03.41.09:774][529]LogWorld: Bringing up level for play took: 0.000644
+[2019.02.23-03.41.09:789][529]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 0.383
+[2019.02.23-03.41.09:789][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.41.10:126][549]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] true
+[2019.02.23-03.41.10:126][549]LogBlueprintUserMessages: [2DSideScrollerGameMode_C_0] oalso
+[2019.02.23-03.41.32:754][904]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:754][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:754][904]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:754][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:769][905]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:770][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:770][905]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:770][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:786][906]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:787][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:787][906]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:787][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:804][907]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:804][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:804][907]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:804][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:820][908]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:820][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:820][908]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:820][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:837][909]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:837][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:837][909]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:838][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:853][910]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:853][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:853][910]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:853][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:870][911]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:870][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:870][911]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:870][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:886][912]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:887][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:887][912]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:887][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:903][913]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:903][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:903][913]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:904][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:919][914]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:920][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:920][914]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:920][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:936][915]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:937][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:937][915]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:937][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:953][916]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:953][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:954][916]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:954][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:970][917]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:970][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:971][917]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:971][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:987][918]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:987][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.32:987][918]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.32:987][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:003][919]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:004][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:004][919]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:004][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:020][920]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:020][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:020][920]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_1
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:020][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:037][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:037][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:053][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:053][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:070][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:070][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:087][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:087][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:104][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:104][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:120][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:121][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:137][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:138][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:154][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:154][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:170][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:171][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:187][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:187][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:204][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:204][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:220][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:221][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:237][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:238][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:253][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:254][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:271][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:271][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:287][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:287][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:304][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:305][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:322][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:324][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:338][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:338][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:354][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:354][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:371][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:371][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:387][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:388][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:404][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:405][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:420][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:421][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:438][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:438][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:454][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:454][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:471][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:471][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:488][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:488][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:506][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:506][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:520][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:521][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:537][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:537][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:554][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:555][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:571][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:571][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:588][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:588][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:604][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:605][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:621][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:621][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:638][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:638][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:654][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:654][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:671][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:671][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:689][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:690][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:690][960]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:690][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:690][960]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:690][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:704][961]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:704][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:704][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:704][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:704][961]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:704][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:720][962]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:720][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:720][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:721][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:721][962]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:721][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:737][963]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:737][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:737][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:738][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:738][963]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:738][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:754][964]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:754][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:754][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:754][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:754][964]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:754][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:770][965]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:771][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:771][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:771][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:771][965]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:771][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:787][966]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:787][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:787][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:788][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:788][966]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:788][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:803][967]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:804][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:804][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:804][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:804][967]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:805][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:820][968]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:820][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:821][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:821][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:821][968]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:821][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:838][969]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:838][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:838][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:838][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:838][969]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:838][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:854][970]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:854][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:854][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:854][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:854][970]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:854][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:871][971]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:871][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:872][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:872][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:872][971]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:872][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:887][972]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:887][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:888][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:888][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:888][972]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:888][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:904][973]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:905][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:905][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:905][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:905][973]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:906][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:920][974]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:921][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:921][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:921][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:921][974]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:921][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:937][975]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:938][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:938][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:938][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:938][975]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:938][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:954][976]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_3
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:954][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:955][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:955][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:955][976]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	enemy_red_C /Game/UEDPIE_0_ascendant.ascendant:PersistentLevel.enemy_red_C_2
+	Function /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red_C:ExecuteUbergraph_enemy_red:0A20
+[2019.02.23-03.41.33:955][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:971][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:971][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:971][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:971][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:988][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:988][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:988][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.33:988][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:005][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:005][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:005][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:005][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:021][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:021][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:021][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:021][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:038][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:039][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:039][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:039][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:053][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:054][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:054][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:054][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:071][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:071][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:071][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:072][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:087][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:088][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:088][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:088][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:105][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:105][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:105][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:106][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:121][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:121][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Blueprint:  enemy_red Function:  Execute Ubergraph Enemy Red Graph:  EventGraph Node:  SetActorRotation
+[2019.02.23-03.41.34:123][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.41.34:123][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.41.34:162][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.41.34:162][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.41.34:199][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.41.34:211][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.23-03.41.34:266][987]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.23-03.41.37:992][209]LogSlate: Window 'Message Log' being destroyed
+[2019.02.23-03.41.37:999][209]LogSlate: Window 'Message Log' being destroyed
+[2019.02.23-03.42.02:801][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.42.54:135][737]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2019.02.23-03.43.04:116][304]BlueprintLog: New page: Compile 2DSideScrollerGameMode
+[2019.02.23-03.43.05:095][330]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/2DSideScrollerGameMode5D98B7554DC9B6C04B7D3A982A7ACDF4.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2019.02.23-03.43.12:896][792]LogRenderer: Reallocating scene render targets to support 1008x544 Format 10 NumSamples 1 (Frame:11050).
+[2019.02.23-03.43.12:939][793]LogRenderer: Reallocating scene render targets to support 1008x584 Format 10 NumSamples 1 (Frame:11052).
+[2019.02.23-03.43.12:983][794]LogRenderer: Reallocating scene render targets to support 1008x604 Format 10 NumSamples 1 (Frame:11054).
+[2019.02.23-03.43.13:030][795]LogRenderer: Reallocating scene render targets to support 1008x612 Format 10 NumSamples 1 (Frame:11056).
+[2019.02.23-03.43.13:071][796]LogRenderer: Reallocating scene render targets to support 1008x620 Format 10 NumSamples 1 (Frame:11058).
+[2019.02.23-03.43.13:188][799]LogRenderer: Reallocating scene render targets to support 1008x624 Format 10 NumSamples 1 (Frame:11064).
+[2019.02.23-03.43.50:571][988]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.43.50:602][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.43.50:602][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.43.50:602][988]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:43:50 AM)
+[2019.02.23-03.43.50:602][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.43.50:605][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002705s)
+[2019.02.23-03.43.50:605][988]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.43.50:605][988]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.02.23-03.43.50:605][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003428s)
+[2019.02.23-03.43.50:649][988]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.43.50:658][988]LogInit: FAudioDevice initialized.
+[2019.02.23-03.43.50:692][988]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.43.50:695][988]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.43.50
+[2019.02.23-03.43.50:695][988]LogWorld: Bringing up level for play took: 0.001198
+[2019.02.23-03.43.50:709][988]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant -0.696
+[2019.02.23-03.43.50:710][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.44.50:301][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.44.50:301][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.44.50:365][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.44.50:365][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.44.50:406][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.44.50:422][561]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.23-03.44.53:632][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.44.59:201][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/enemy_red.enemy_red
+[2019.02.23-03.49.53:771][588]BlueprintLog: New page: Compile enemy_red
+[2019.02.23-03.49.54:785][615]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/enemy_redD52A0617476586AC688EB2B3CF5125B8.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/enemy_red.uasset'
+[2019.02.23-03.49.56:290][704]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.49.56:322][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.49.56:322][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.49.56:322][704]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:49:56 AM)
+[2019.02.23-03.49.56:322][704]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.49.56:325][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002837s)
+[2019.02.23-03.49.56:326][704]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.49.56:326][704]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.02.23-03.49.56:326][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003921s)
+[2019.02.23-03.49.56:371][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.49.56:381][704]LogInit: FAudioDevice initialized.
+[2019.02.23-03.49.56:414][704]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.49.56:416][704]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.49.56
+[2019.02.23-03.49.56:416][704]LogWorld: Bringing up level for play took: 0.000679
+[2019.02.23-03.49.56:431][704]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 1.025
+[2019.02.23-03.49.56:431][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.05:290][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.05:290][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.50.05:358][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.50.05:358][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.05:399][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.50.05:415][236]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.23-03.50.06:472][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.50.22:707][271]BlueprintLog: New page: Compile enemy_red
+[2019.02.23-03.50.27:019][506]BlueprintLog: New page: Compile enemy_red
+[2019.02.23-03.50.27:985][531]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/enemy_redC7625A484B7BFC99F11017B74DB62016.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/enemy_red.uasset'
+[2019.02.23-03.50.29:670][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.50.29:702][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.29:702][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.50.29:702][631]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:50:29 AM)
+[2019.02.23-03.50.29:702][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.50.29:705][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003121s)
+[2019.02.23-03.50.29:706][631]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.50.29:706][631]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2019.02.23-03.50.29:706][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.004158s)
+[2019.02.23-03.50.29:753][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.50.29:761][631]LogInit: FAudioDevice initialized.
+[2019.02.23-03.50.29:796][631]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.50.29:798][631]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.50.29
+[2019.02.23-03.50.29:798][631]LogWorld: Bringing up level for play took: 0.000955
+[2019.02.23-03.50.29:812][631]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 0.407
+[2019.02.23-03.50.29:813][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.53:207][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.53:208][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.50.53:245][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.50.53:245][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.50.53:287][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.50.53:305][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.23-03.50.54:231][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.51.04:581][710]BlueprintLog: New page: Compile enemy_red
+[2019.02.23-03.51.05:624][738]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/enemy_redCE254B6F46CADA8AFDCBA3AE83E6B0E7.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/enemy_red.uasset'
+[2019.02.23-03.51.08:157][889]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.51.08:192][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.08:192][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.51.08:192][889]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:51:08 AM)
+[2019.02.23-03.51.08:192][889]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.51.08:195][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002761s)
+[2019.02.23-03.51.08:196][889]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.51.08:196][889]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.02.23-03.51.08:196][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003927s)
+[2019.02.23-03.51.08:242][889]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.51.08:252][889]LogInit: FAudioDevice initialized.
+[2019.02.23-03.51.08:284][889]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.51.08:286][889]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.51.08
+[2019.02.23-03.51.08:286][889]LogWorld: Bringing up level for play took: 0.000659
+[2019.02.23-03.51.08:301][889]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 0.896
+[2019.02.23-03.51.08:302][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.27:247][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.27:248][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.51.27:290][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.51.27:290][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.27:326][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.51.27:365][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.23-03.51.31:202][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.51.37:092][610]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.51.37:123][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.37:123][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.51.37:124][610]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:51:37 AM)
+[2019.02.23-03.51.37:124][610]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.51.37:126][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2019.02.23-03.51.37:127][610]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.51.37:127][610]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.02.23-03.51.37:127][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003453s)
+[2019.02.23-03.51.37:169][610]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.51.37:176][610]LogInit: FAudioDevice initialized.
+[2019.02.23-03.51.37:211][610]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.51.37:213][610]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.51.37
+[2019.02.23-03.51.37:213][610]LogWorld: Bringing up level for play took: 0.000720
+[2019.02.23-03.51.37:227][610]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant -0.178
+[2019.02.23-03.51.37:228][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.48:247][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.48:247][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.51.48:289][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.51.48:289][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.51.48:330][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.51.48:348][269]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.23-03.51.49:322][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.52.24:619][443]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.52.24:653][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.52.24:653][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.52.24:654][443]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:52:24 AM)
+[2019.02.23-03.52.24:654][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.52.24:657][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003032s)
+[2019.02.23-03.52.24:657][443]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.52.24:657][443]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.02.23-03.52.24:657][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003744s)
+[2019.02.23-03.52.24:703][443]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.52.24:710][443]LogInit: FAudioDevice initialized.
+[2019.02.23-03.52.24:746][443]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.52.24:748][443]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.52.24
+[2019.02.23-03.52.24:748][443]LogWorld: Bringing up level for play took: 0.000658
+[2019.02.23-03.52.24:763][443]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant -0.643
+[2019.02.23-03.52.24:764][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.52.39:733][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.52.43:454][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.02.23-03.52.44:487][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.02.23-03.52.45:082][643]LogEditorViewport: Clicking on Actor (LMB): enemy_red_C (enemy_red1)
+[2019.02.23-03.52.47:779][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.02.23-03.52.47:811][791]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.23-03.52.54:161][150]LogEditorViewport: Clicking on Actor (LMB): enemy_red_C (enemy_red1)
+[2019.02.23-03.53.00:346][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.53.20:151][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.53.20:152][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.53.20:193][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.53.20:193][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.53.20:231][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.53.20:274][705]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.23-03.53.29:531][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.54.25:030][569]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Drop_Platofrm_One_BP.Drop_Platofrm_One_BP
+[2019.02.23-03.55.13:454][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.02.23-03.55.16:142][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.02.23-03.55.33:542][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.57.05:417][143]BlueprintLog: New page: Compile enemy_red
+[2019.02.23-03.57.06:479][171]LogSavePackage: Moving '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Saved/enemy_redE994165C4477420810C423A89A685F90.tmp' to '../../../../../../Users/MatthewStevenson/Desktop/ascendant/Content/2DSideScrollerBP/Blueprints/enemy_red.uasset'
+[2019.02.23-03.57.08:065][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-03.57.08:100][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.57.08:100][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-03.57.08:100][265]PIE: New page: PIE session: ascendant (Feb 22, 2019, 11:57:08 AM)
+[2019.02.23-03.57.08:100][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ascendant
+[2019.02.23-03.57.08:103][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2019.02.23-03.57.08:104][265]LogAIModule: Creating AISystem for world ascendant
+[2019.02.23-03.57.08:104][265]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2019.02.23-03.57.08:104][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ascendant.ascendant to /Game/UEDPIE_0_ascendant.ascendant (0.003693s)
+[2019.02.23-03.57.08:150][265]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.23-03.57.08:159][265]LogInit: FAudioDevice initialized.
+[2019.02.23-03.57.08:188][265]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.02.23-03.57.08:190][265]LogWorld: Bringing World /Game/UEDPIE_0_ascendant.ascendant up for play (max tick rate 60) at 2019.02.22-19.57.08
+[2019.02.23-03.57.08:191][265]LogWorld: Bringing up level for play took: 0.001161
+[2019.02.23-03.57.08:205][265]PIE: Play in editor start time for /Game/UEDPIE_0_ascendant 0.8
+[2019.02.23-03.57.08:206][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.57.19:535][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.57.19:535][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.57.19:573][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-03.57.19:573][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ascendant.ascendant:PersistentLevel' has LevelScriptBlueprint '/Game/ascendant.ascendant:PersistentLevel.ascendant' with GeneratedClass '/Game/ascendant.ascendant_C' with ClassGeneratedBy '/Game/ascendant.ascendant:PersistentLevel.ascendant'
+[2019.02.23-03.57.19:613][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-03.57.19:653][944]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.23-03.57.21:138][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-03.58.31:033][223]LogEditorTransaction: Undo Set Scale
+[2019.02.23-03.58.31:066][223]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.enemy_red_C_0.CollisionCylinder) Component already registered.
+[2019.02.23-03.58.31:069][223]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.23-03.58.31:847][223]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.779 s
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: 
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: 
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: Stack: 
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab38f9a86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab389f9aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffaae17fa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffaae180795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffaae12d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd26fe72 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd234809 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd2dc40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd0e9ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd080fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab17485c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab14ab94f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab1480419 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab184ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:847][223]LogOutputDevice: Error: [Callstack] 0x00007ffab182ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab17d88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab1835cda UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab145f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab149186e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab14b2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab389ffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab38cacf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab38b140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab391b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab395f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab38f726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab1481168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd08206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd0c4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab4176d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffab4164cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd04694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd0c697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffadd0b9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb0042daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb00420de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb004301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb0041ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb1d2b6d41 USER32.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb1d2b6713 USER32.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb00431746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ff7d4565546 UE4Editor.exe!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ff7d457596c UE4Editor.exe!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ff7d45759ea UE4Editor.exe!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ff7d45848da UE4Editor.exe!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ff7d458659a UE4Editor.exe!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb1b553dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: [Callstack] 0x00007ffb1dfe3691 ntdll.dll!UnknownFunction []
+[2019.02.23-03.58.31:848][223]LogOutputDevice: Error: 
+[2019.02.23-03.58.31:854][223]LogStats:                SubmitErrorReport -  0.000 s
