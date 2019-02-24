@@ -9,4 +9,11 @@
 	- power up to increase speed
 	- power up to increase 
 
-check out binding of issac
+
+- damage player on touch, or knock them off the platform, thereby killing them
+- kills add points, lead to spawning power ups
+
+-zoom out, allow for more enemies
+-add combo scores for power ups
+
+
