@@ -18,6 +18,9 @@
 
 change from shift orientation to shoot ahead or behind
 
+*use times lines for alternate movements. use enemy count to select which timeline is used
+
+
 
 site key: 6Lfma5QUAAAAAKR4hRvf6bEAKKBa6sJ0UZrGVPbg
 
