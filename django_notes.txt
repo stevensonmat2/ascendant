@@ -1,0 +1,11 @@
+https://docs.djangoproject.com/en/dev/topics/db/models/#meta-options
+
+https://docs.djangoproject.com/en/dev/ref/models/querysets/#order-by
+
+https://tutorial.djangogirls.org/en/whats_next/
+
+https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
+
+https://docs.djangoproject.com/en/2.0/howto/static-files/
+
+https://docs.djangoproject.com/en/2.0/howto/static-files/deployment/
