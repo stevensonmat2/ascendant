@@ -24,3 +24,5 @@ change from shift orientation to shoot ahead or behind
 change power ups to be charged by kills, souls are collected for somehting else?
 
 get rid of health? or leave to make more rpg like. if so, souls will heal. kills power up attacks
+
+****one button shoot left, another shoot right with different fire aninmations for both****
